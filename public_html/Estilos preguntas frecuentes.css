@@ -1,0 +1,37 @@
+body{
+background: url(115997.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+nav li{
+    display: inline-block;
+    padding: 5px;
+  
+}
+nav{
+    text-align: center;
+ 
+}
+a{
+    color: red;
+}
+
+p{
+    color: white;
+}
+
+img{
+    width:  400px; height: 450px;
+}
+p{
+    color: white;
+}
